@@ -2,7 +2,7 @@
 Step by step issues to create a full stack clone of trello application(https://trello.com) using MERN stack.
 
 ## Todo
-- Please pick an issue and divide into smaller issues.
+- Please pick an issue and divide into smaller issues, start with [issue 1](https://github.com/AltCampus/trello-issues/issues/1).
 - Work on each issue in a separate branch and once done merge it to the master branch via a PR.
 - Once done, please deploy the app on DigitalOcean or AWS.
 
